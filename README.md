@@ -68,8 +68,18 @@ Este es el principio de superposición y se puede extender a un número cualquie
 
  
 ### 3.	EXPLICACIÓN DEL PROCEDIMIENTO
+- Diagramas eléctricos
+![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/5.png)
 
-###### _FIGURA 3_
+###### _FIGURA 2_
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/6.png)
+
+###### _FIGURA 2_
+![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/7.png)
+
+###### _FIGURA 2_
+
 
 ####	LISTA DE COMPONENTES
 
@@ -108,8 +118,19 @@ Se hace los circuitos y se mide las resistencias con el multímetro
  
 ### 4.	RESPUESTAS A INTERROGANTES
 #### 4.1 Empleando el circuito de Thevenin determine la potencia suinisrada de la resistencia R3
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/1.png)
+###### _FIGURA 8_
+
 #### 4.2 Calcular la intensidad I que pasará la resistencia de 5 Ω utilizando thevenin
+![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/2.png)
+###### _FIGURA 8_
+
 #### 4.3 Encontrar la corriente y el voltaje a través de la resistencia de 12 mediante el teorema de superposición
+![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/3.png)
+###### _FIGURA 8_
+![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/4.png)
+###### _FIGURA 8_
 
 ### 5. VIDEOS
 
