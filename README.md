@@ -5,11 +5,15 @@
 
 **Principales**
 
- - Experimentar con la Máxima transferencia de Potencia.
+ - Experimentar La superposición
+ - Experimentar el teorema de Thévenin
+ - Construir un circuito.
 
 **Específicos**
 
-- Distinguirla potencia consumida de un circuito y la potencia máxima del circuito.
+- Diferenciar las partes de una herramienta eléctrica
+- Apreciar la diferencia de voltaje y corriente cuando se apaga una fuente
+- Consultar la nomenclatura de colores y valores parar las resistencias.
 - Apreciar la diferencia de voltaje y corriente cuando se cambia la resistencia RL.
 - Diferenciar las partes de un vatímetro.
 
