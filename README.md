@@ -1,6 +1,6 @@
 # Laboratorio-Extra
 
-## Corrección del Exámen 
+## Corrección del Examen 
 ### 1.	OBJETIVOS
 
 **Principales**
@@ -97,7 +97,7 @@ Este es el principio de superposición y se puede extender a un número cualquie
 |1 |Resistor de 7.5 kΩ|
 |1 |Resistor de 6.8 kΩ|
 |1 |Resistor de 3.3 kΩ|
-|1 |Potencioemtro de 1.0 kΩ|
+|1 |Potenciómetro de 1.0 kΩ|
 |1 |Protoboard|
  
 > (Herramientas utilizadas en simulación) 
@@ -117,12 +117,12 @@ Se hace los circuitos y se mide las resistencias con el multímetro
 
  
 ### 4.	RESPUESTAS A INTERROGANTES
-#### 4.1 Empleando el circuito de Thevenin determine la potencia suinisrada de la resistencia R3
+#### 4.1 Empleando el circuito de Thévenin determine la potencia suministrada de la resistencia R3
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/1.png)
 ###### _FIGURA 13_
 
-#### 4.2 Calcular la intensidad I que pasará la resistencia de 5 Ω utilizando thevenin
+#### 4.2 Calcular la intensidad I que pasará la resistencia de 5 Ω utilizando Thévenin
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/2.png)
 ###### _FIGURA 14_
 
@@ -149,9 +149,8 @@ https://youtu.be/Y-3tUByS7xI
 
 ### 7.	BIBLIOGRAFÍA
 
-Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson Educacion. Serway,
+Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson Educación. Serway,
 
-R. (2001). Física II. México: Pearson Educacion.
+R. (2001). Física II. México: Pearson Educación.
 
-A. (2021, 5 agosto). El. La fisica y quimica. Recuperado 14 de julio de 2022, de https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
-
+A. (2021, 5 agosto). El. La física y química. Recuperado 14 de julio de 2022, de https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
