@@ -137,7 +137,7 @@ Se hace los circuitos y se mide las resistencias con el multímetro
 
 ### 5. VIDEOS
 
-https://youtu.be/yZiy93hiuZA
+https://youtu.be/Y-3tUByS7xI
 
 ### 6.	CONCLUSIONES
 
