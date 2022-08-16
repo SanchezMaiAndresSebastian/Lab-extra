@@ -59,11 +59,11 @@ Este es el principio de superposición y se puede extender a un número cualquie
 
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/3.png)
 
-###### _FIGURA 1_
+###### _FIGURA 7_
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/4.png)
 
 
-###### _FIGURA 2_
+###### _FIGURA 8_
 
 
  
@@ -71,14 +71,14 @@ Este es el principio de superposición y se puede extender a un número cualquie
 - Diagramas eléctricos
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/5.png)
 
-###### _FIGURA 2_
+###### _FIGURA 9_
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/6.png)
 
-###### _FIGURA 2_
+###### _FIGURA 10_
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/7.png)
 
-###### _FIGURA 2_
+###### _FIGURA 11_
 
 
 ####	LISTA DE COMPONENTES
@@ -110,7 +110,7 @@ Se tiene que preparar los componentes antes de la construcción del circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
 
-###### _FIGURA 8_
+###### _FIGURA 12_
 
 Se hace los circuitos y se mide las resistencias con el multímetro 
 
@@ -120,17 +120,20 @@ Se hace los circuitos y se mide las resistencias con el multímetro
 #### 4.1 Empleando el circuito de Thevenin determine la potencia suinisrada de la resistencia R3
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/1.png)
-###### _FIGURA 8_
+###### _FIGURA 13_
 
 #### 4.2 Calcular la intensidad I que pasará la resistencia de 5 Ω utilizando thevenin
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/2.png)
-###### _FIGURA 8_
+###### _FIGURA 14_
 
 #### 4.3 Encontrar la corriente y el voltaje a través de la resistencia de 12 mediante el teorema de superposición
+
+##### Encontrar corriente 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/3.png)
-###### _FIGURA 8_
+###### _FIGURA 15_
+##### Encontrar el voltaje
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-extra/blob/main/Fotos/4.png)
-###### _FIGURA 8_
+###### _FIGURA 16_
 
 ### 5. VIDEOS
 
